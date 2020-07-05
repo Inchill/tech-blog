@@ -10,6 +10,7 @@
 
 ## 目录结构
 
+```
 blog
 ├─.babelrc
 ├─.dockerignore
@@ -55,6 +56,7 @@ blog
 |   |   ├─db.ts
 |   |   └tools.ts
 ├─node_modules
+```
 
 ## 如何使用
 
